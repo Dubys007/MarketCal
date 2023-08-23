@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Calculator_TASK\Calculator_TASK\obj\Debug\Calculator_TASK.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Calculator_TASK\Calculator_TASK\obj\Debug\Calculator_TASK.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Calculator_TASK\Calculator_TASK\obj\Debug\Calculator_TASK.Form1.resources
+C:\Users\USER\source\repos\Calculator_TASK\Calculator_TASK\obj\Debug\Calculator_TASK.Properties.Resources.resources
+C:\Users\USER\source\repos\Calculator_TASK\Calculator_TASK\obj\Debug\Calculator_TASK.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Calculator_TASK\Calculator_TASK\obj\Debug\Calculator_TASK.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Calculator_TASK\Calculator_TASK\bin\Debug\Calculator_TASK.exe.config
+C:\Users\USER\source\repos\Calculator_TASK\Calculator_TASK\bin\Debug\Calculator_TASK.exe
+C:\Users\USER\source\repos\Calculator_TASK\Calculator_TASK\bin\Debug\Calculator_TASK.pdb
+C:\Users\USER\source\repos\Calculator_TASK\Calculator_TASK\obj\Debug\Calculator_TASK.exe
+C:\Users\USER\source\repos\Calculator_TASK\Calculator_TASK\obj\Debug\Calculator_TASK.pdb
